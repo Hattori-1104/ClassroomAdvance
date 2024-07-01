@@ -19,9 +19,6 @@
 #### 実装環境
 Google Chrome拡張機能
 >スマホユーザーにはKiwi browser
->言語 : JavaScript
->Google Classroom APIを使用(未確定)
-
 ---
 ### メンバー、役割
  - 藤森 功成 (北大)
@@ -29,9 +26,9 @@ Google Chrome拡張機能
  - 山本 栞和 (国際情報)
  - 木村 虎太郎 (札幌西)
 #### 現在取り組んでいること
-> Google Chrome拡張機能の開発
-> 実装機能のアイデア
-> 実際に使用している高校生へのアンケート
+- Google Chrome拡張機能の開発
+- 実装機能のアイデア
+- 実際に使用している高校生へのアンケート
 > [アンケートリンク](https://www.figma.com/board/SpBorfcSlSGqRJ3zsyO0xW/%E5%8C%97%E5%A4%A7SCSK%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%82%BD%E3%83%B32024?node-id=0-1&t=Vly6HpItJ8KR54iQ-1)
 
 ---
