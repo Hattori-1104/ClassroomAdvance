@@ -33,4 +33,4 @@ Google Chrome拡張機能
 
 ---
 ### デモ(プロトタイプ) 
-#### [Prototype - Figma](https://www.figma.com/proto/LR5zMpRLuz6EbECyx2vY8Y/Classroom-Advance-%3A-Prototype?node-id=1-4&t=r3pWaaivc2FNGcwC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
+> [Prototype - Figma](https://www.figma.com/proto/LR5zMpRLuz6EbECyx2vY8Y/Classroom-Advance-%3A-Prototype?node-id=1-4&t=r3pWaaivc2FNGcwC-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A4)
